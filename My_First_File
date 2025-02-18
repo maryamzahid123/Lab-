@@ -1,0 +1,7 @@
+Console.WriteLine("Enter First Number");
+int num_1 = Convert.ToInt32(Console.WriteLine());
+
+Console.WriteLine("Enter Second Number");
+int num_2 = Convert.ToInt32(Console.WriteLine());
+
+num1 + num2
